@@ -1,0 +1,62 @@
+#imglogo{
+    float: left;
+    margin-left: 5cm;   
+}
+
+ #header{
+   float: left;
+   
+} 
+
+#leftbox {
+    float:left; 
+    background:Red;
+    width:25%;
+    height:280px;
+}
+#middlebox{
+    float:left; 
+    background:Green;
+    width:50%;
+    height:280px;
+}
+#rightbox{
+    float:right;
+    background:blue;
+    width:25%;
+    height:280px;
+}
+
+
+center{
+    display: flex;
+    
+}
+ .card1{
+    float: left;
+   
+    margin-left: 5%;
+}
+
+.card2{
+    float: right;
+    margin-right: 0%;
+    margin-left: 5cm;
+   
+}
+.card3{
+    
+    margin-left: 15%;
+} 
+ .card4{
+   margin-left: 6cm;
+} 
+.card{
+margin: 6%;
+}
+
+#button{
+    position:fixed;
+top:10cm;
+left: 35cm;
+}
